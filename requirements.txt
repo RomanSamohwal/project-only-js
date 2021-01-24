@@ -18,3 +18,5 @@ Git
 
 
 
+  /* "@webpack-cli/init": "^1.1.2",
+    "babel-preset-es2017": "^6.24.1"*/
