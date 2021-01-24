@@ -1,0 +1,24 @@
+{
+  "name": "project-only",
+  "version": "1.0.0",
+  "description": "Pure JavaScript Excel Aplication",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomanSamohwal/project-only-js.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "Samohwal Roman <rsamohwal@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomanSamohwal/project-only-js/issues"
+  },
+  "homepage": "https://github.com/RomanSamohwal/project-only-js#readme"
+}
