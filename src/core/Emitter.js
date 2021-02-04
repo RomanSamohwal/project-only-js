@@ -27,9 +27,3 @@ export class Emitter {
     }
   }
 }
-
-const emitter = new Emitter()
-
-emitter.subscribe('roman', data => console.log('Sub', data))
-
-emitter.emit('roman', 42)
